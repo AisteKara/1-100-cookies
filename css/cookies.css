@@ -23,7 +23,9 @@ body {
     transform: translate(-50%, -50%);
     text-align: center;
 }
-p {
+p { 
+    margin-top: 10px;
+    word-break: keep-all;
     text-align: center;
     display: flex;
     justify-content: center;
